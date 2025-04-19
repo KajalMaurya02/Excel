@@ -1,21 +1,16 @@
-# 🚴‍♀️ Bike Sale Dashboard
+# 🚴‍♀️ Bike Sales Dashboard
 
-This Excel dashboard project analyzes bike sales data using:
+An interactive Excel dashboard built to analyze bike sales data, enabling easy filtering by region, customer type, and more.
 
-- ✅ Data Cleaning
-- ✅ Pivot Tables
-- ✅ Charts & Slicers
-- ✅ IF & AVERAGE functions
-- ✅ Interactive Dashboard Layout
+## 📊 Features
+- Data Cleaning using Excel tools
+- Used VLOOKUP, IF, AVERAGE functions
+- Pivot Tables & Charts for analysis
+- Slicers for easy filtering
+- Clean, dynamic Dashboard
 
-### 📊 Key Insights
-- Product-wise sales trends
-- Monthly performance overview
-- Regional analysis
+## 📁 Tools Used
+- Microsoft Excel
 
-### 🛠 Tools Used
-- Microsoft Excel (Intermediate level functions)
-
----
-
-🔗 Project by Kajal Maurya
+## 🎯 Objective
+To create a visually compelling dashboard and draw insights from bike sales patterns across locations and customer categories.

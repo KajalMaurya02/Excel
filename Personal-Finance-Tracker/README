@@ -1,0 +1,15 @@
+# Personal Finance Tracker (Excel)
+
+📊 A dynamic Excel project to track income, expenses, and savings using pivot tables, slicers, and dashboards.
+
+## Features
+- Monthly Income & Expense Summary
+- Category-wise Analysis
+- Visual Charts (Pie & Line)
+- Dashboard with Slicers
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- SUMIF/SUMIFS
+- Data Validation
